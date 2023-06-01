@@ -1,0 +1,7 @@
+name = "LearningRateSchedulers"
+uuid = "e8d5e29d-6944-449f-938f-d7a869095b06"
+authors = ["abaraba <holycl@dingtalk.com>"]
+version = "0.1.1"
+
+[deps]
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
